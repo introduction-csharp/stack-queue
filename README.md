@@ -11,10 +11,10 @@ Then answer the following questions:
 1.  A letter means push and an asterisk means pop in the following sequence. Using your *queue* give the sequence of values returned by the pop operations when this sequence of  operations is performed on an initially empty (FIFO) queue: `E A S * Y * Q U E * * * S T * * * I O * N * * *`
 1.  Ensure the queue function from the previous question issues a warning and exits if the program attempts to pop an empty stack.
 1. Suppose that an mixed sequence of push and pop operations are performed. The pushes push the integers 0 through 9 ***in order***; the pops print out the return value. Which of the following sequences could not occur?
-  - 4 3 2 1 0 9 8 7 6 5
-  - 4 6 8 7 5 3 2 9 0 1 
-  - 2 5 6 7 4 8 9 3 1 0
-  - 4 3 2 1 0 5 6 7 8 9  
+    - 4 3 2 1 0 9 8 7 6 5
+    - 4 6 8 7 5 3 2 9 0 1 
+    - 2 5 6 7 4 8 9 3 1 0
+    - 4 3 2 1 0 5 6 7 8 9  
 1. Use a stack to take in a collection of string and then to print these out in reverse order. 
 1. Write a program that reads in a positive integer and prints the binary representation of that integer.  Hint: division by 2.
   
